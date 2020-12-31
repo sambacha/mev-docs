@@ -15,6 +15,7 @@ https://github.com/sbaks0820/mev-research
 </br> [Research Fellowship](https://github.com/flashbots/mev-research/blob/main/research_fellowship.md)
 
 ## **MEV Ship Vault**
+
 </br> [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges by Daian et. al.](https://arxiv.org/abs/1904.05234)
 
 [High-Frequency Trading on Decentralized On-Chain Exchanges by Zhou et. al](https://arxiv.org/abs/2009.14021)
@@ -44,6 +45,7 @@ https://github.com/sbaks0820/mev-research
 [Spam resistant block creator selection via burn auction by Barry Whitehat](https://ethresear.ch/t/spam-resistant-block-creator-selection-via-burn-auction/5851)
 
 ## Miscellaneous Gems
+
 [Ethereum is a Dark Forest by Dan Robinson](https://medium.com/@danrobinson/ethereum-is-a-dark-forest-ecc5f0505dff)
 
 [Escaping the Dark Forest by Sam Sun](https://samczsun.com/escaping-the-dark-forest/)
@@ -68,7 +70,7 @@ https://github.com/sbaks0820/mev-research
 
 [Phantom TX: a dark pool for Ethereum transactions](http://phantomtx.com)
 
-[Candyshop: a smart transaction batching service that extracts value by controlling transaction ordering]( https://www.notion.so/CandyShop-Quick-Overview-517b726b0e1c4f06b3fe88f0a0ee1577)
+[Candyshop: a smart transaction batching service that extracts value by controlling transaction ordering](https://www.notion.so/CandyShop-Quick-Overview-517b726b0e1c4f06b3fe88f0a0ee1577)
 
 [Scrooge-McEtherface: attack tool that loots Ether from vulnerable smart contracts](https://github.com/b-mueller/scrooge-mcetherface)
 
