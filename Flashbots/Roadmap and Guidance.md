@@ -48,7 +48,7 @@ We expect Flashbots developers to be heavily involved in this phase.
 
 **Resarch question:** Should we allow for any MEV on the system? Should we bound the MEV?
 
-**Engineering question:** What kind of transparency should we allow? Fully transparent MEV portal?
+**[[Engineering]] question:** What kind of transparency should we allow? Fully transparent MEV portal?
 
 - Who leads? Need firm commitment to develop, keep public.
 

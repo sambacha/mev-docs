@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EIP-1559.md",
+            "file": "Engineering.md",
             "mode": "source"
           }
         }
@@ -69,12 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EIP-1559.md",
+                "file": "Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EIP-1559.md"
+                "file": "Engineering.md"
               }
             }
           },
@@ -96,22 +96,23 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "lastOpenFiles": [
+    "Engineering.md",
+    "Backrunning.md",
+    "Besu.md",
+    "Geth.md",
+    "Links.md",
+    "README.md",
+    "Liquidations.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Links.md",
-    "Untitled 2.md",
-    "Flashbots/MEV.md",
-    "Flashbots/Introduction.md",
-    "Flashbots/Roadmap and Guidance.md",
-    "Day Planners/Planner.md",
-    "Day Planners/Day Planner-20201230.md",
-    "Liquidations.md"
+    "Untitled 2.md"
   ]
 }

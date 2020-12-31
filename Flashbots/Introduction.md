@@ -7,13 +7,13 @@ Flashbots is committed to open source. The best way to learn about Flashbots is 
 Flashbots research and development are tightly-coupled dual engines that propel Flashbots in a phased approach:
 
 - **Long-term oriented research effort:** They spec out and update our roadmap, define our organization’s phases and identify key milestones associated with each of them;
-- **Milestone-oriented engineering effort:** They are organized as product-focused teams that ship core infrastructure and ecosystem tools, while collecting data and producing other artifacts that feed back into research.
+- **Milestone-oriented [[Engineering]] effort:** They are organized as product-focused teams that ship core infrastructure and ecosystem tools, while collecting data and producing other artifacts that feed back into research.
 
 ![FlashbotsOrg](FlashbotsOrgChart.png)
 
 ## Try Flashbots
 
-</br> We have designed and implemented a proof of concept for permissionless MEV extraction called MEV-Geth. It is a sealed-bid block space auction mechanism for communicating transaction order preference. While our proof of concept has incomplete trust guarantees, we believe it's a significant improvement over the status quo. The adoption of MEV-Geth should relieve a lot of the network and chain congestion caused by frontrunning and backrunning bots. Find out more about Flashbots architecture and implementation in our [ethresearch post](https://ethresear.ch/t/flashbots-frontrunning-the-mev-crisis/8251).
+</br> We have designed and implemented a proof of concept for permissionless MEV extraction called MEV-Geth. It is a sealed-bid block space auction mechanism for communicating transaction order preference. While our proof of concept has incomplete trust guarantees, we believe it's a significant improvement over the status quo. The adoption of MEV-Geth should relieve a lot of the network and chain congestion caused by frontrunning and [[Backrunning]] bots. Find out more about Flashbots architecture and implementation in our [ethresearch post](https://ethresear.ch/t/flashbots-frontrunning-the-mev-crisis/8251).
 
 - **Run MEV-Geth**
   </br> If you are a miner or a mining pool, we invite you to review our code, try running MEV-Geth, and start mining MEV bundles today. - [mev-geth](https://github.com/flashbots/mev-geth)
@@ -31,7 +31,7 @@ Flashbots research and development are tightly-coupled dual engines that propel 
 
 ### MEV Roast
 
-MEV Roast is a semi-monthly discussion that stems from the research collective MEV Pi-rate Ship tradition. It's meant to service as a communication bridge between Flashbots and the broader community interested in understanding MEV and contribute to our research and engineering efforts. The format of our Roast is meant to invite constructive criticism on the Flashbots efforts and to address open questions.
+MEV Roast is a semi-monthly discussion that stems from the research collective MEV Pi-rate Ship tradition. It's meant to service as a communication bridge between Flashbots and the broader community interested in understanding MEV and contribute to our research and [[Engineering]] efforts. The format of our Roast is meant to invite constructive criticism on the Flashbots efforts and to address open questions.
 | No. |Date | Roast Master | Agenda | Notes | Recording |
 |:---|:---|:---|---|---|:---|
 8 | Nov 25 | @danrobinson | [agenda](https://github.com/flashbots/pm/issues/1) | [slides](https://docs.google.com/presentation/d/1R0P-ypkiPJw-re0oKlkXkCF03UaVq_0fVnO9J0ewh1Q/edit?usp=sharing) | [video](https://drive.google.com/file/d/1bMwtTKtOITYr2DV_59RngOQADL4I3cWR/view?usp=sharing) |

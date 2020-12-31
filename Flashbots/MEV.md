@@ -78,7 +78,7 @@ Paper style/field: CS ethics / social sciences paper, short paper (10-12pgs)
 
 ### Purpose
 
-</br> Research workshop is a 60-minute weekly discussion that addresses specific research questions, Flashbots Research Proposals (FRPs) and/or open questions within the scope specified in the [Flashbots Research Roadmap (WIP)](research_roadmap.md), so to set directions for resolving open issues or specific questions that arise from research-engineering coordination. Anyone can propose a topic to be discussed in the Research Workshop by opening a github issue in Flashbots' [/mev-research repo](https://github.com/flashbots/mev-research/) and/or labeling an outstanding issue "workshop", and linking it to related FRPs and github issues or research questions yet to be addressed (Example: [Issue 24](https://github.com/flashbots/mev-research/issues/24) on MEV taxonomy). Research workshop will be recorded and published after the call.
+</br> Research workshop is a 60-minute weekly discussion that addresses specific research questions, Flashbots Research Proposals (FRPs) and/or open questions within the scope specified in the [Flashbots Research Roadmap (WIP)](research_roadmap.md), so to set directions for resolving open issues or specific questions that arise from research-[[Engineering]] coordination. Anyone can propose a topic to be discussed in the Research Workshop by opening a github issue in Flashbots' [/mev-research repo](https://github.com/flashbots/mev-research/) and/or labeling an outstanding issue "workshop", and linking it to related FRPs and github issues or research questions yet to be addressed (Example: [Issue 24](https://github.com/flashbots/mev-research/issues/24) on MEV taxonomy). Research workshop will be recorded and published after the call.
 
 | No. | Date   | Topic                                                     | Agenda                                                           | Notes         | Recording                                                                                   |
 | :-- | :----- | :-------------------------------------------------------- | ---------------------------------------------------------------- | ------------- | :------------------------------------------------------------------------------------------ |
@@ -147,7 +147,7 @@ Paper style/field: CS ethics / social sciences paper, short paper (10-12pgs)
 
 [How to munch on pickles from a whale dinner by Tomasz Mierzwa](https://link.medium.com/RavyJlN9oab)
 
-[Portion of Daily Gas Used by Backrunning Bot Contracts by Phillipe Castonguay](https://explore.duneanalytics.com/public/dashboards/FFFpCKoE41bvFpESiyjUIBJfEMt4GoMFwcidNcAh)
+[Portion of Daily Gas Used by [[Backrunning]] Bot Contracts by Phillipe Castonguay](https://explore.duneanalytics.com/public/dashboards/FFFpCKoE41bvFpESiyjUIBJfEMt4GoMFwcidNcAh)
 
 [Gas Gambits - Game Theory Example of Incentivized Collaboration by KeeperDAO](https://medium.com/keeperdao/gas-gambits-game-theory-example-of-incentivized-collaboration-9a42e9c9b867)
 
